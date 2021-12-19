@@ -12,9 +12,9 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 
 ## 🏫 Education 🎓
 | Qualification | Specialization | School/University | Year |
-| :---          | :---           | :---              |
-| B. Tech       | Electrical & Electronics | Vaagdevi Engineering College (JNTU Hyd) | 2012
-| B. Sc       | Data Science and Machine Learning | IIT Madras | Currently pursuing |
+| :---          | :---           | :---              | :--- |
+| B. Tech       | Electrical & Electronics | Vaagdevi Engineering College (JNTU Hyd) | 2012 |
+| B. Sc       | Data Science and Machine Learning | IIT Madras | Currently pursuing | - |
 
 ## Experience
 
