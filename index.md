@@ -12,7 +12,7 @@ layout: default
 Hello! I'm Abhilash. I'm a **Java and NodeJS Full-Stack Engineer**. I regard myself as a **student for lifetime**. I love to make **web more engaging**. I'm a curious person and love to learn new technologies. **I'm a Machine Learning (ML) enthusiast, currently pursuing UnderGrad in ML & DS @ IIT Madras**.
 
 ### ❤️ My Interests ❤️
-I'm cool and calm person, like to hangout with friends. I like people with good sense of humour. So, obviously, humour is one of my genres. I give more importance to health, family and animal welfare 🐶 🐾. I love to pass time watching movies - Thriller, Science Fiction 🤖, Fantasy and Horror 🧟 are my favourite genres.
+I'm cool and calm person, like to hangout with friends. I like people with good sense of humour. So, obviously, humour is one of my genres. I regard health and family are more important in life. My causes include animal welfare 🐶 🐾 and mother nature ☘️. I love to pass time watching movies - Thriller, Science Fiction 🤖, Fantasy and Horror 🧟 are my favourite genres.
 
 ## 🏫 Education 🎓
 
