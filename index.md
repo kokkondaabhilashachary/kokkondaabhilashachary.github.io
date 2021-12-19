@@ -11,10 +11,10 @@ Hello! I'm Abhilash. I'm a **Java and NodeJS Full-Stack Engineer**. I regard mys
 I'm cool and calm person, like to hangout with friends. I like people with good sense of humour. So, obviously, humour is one of my genres. I give more importance to health, family and animal welfare 🐶 🐾. I love to pass time watching movies - Thriller, Science Fiction 🤖, Fantasy and Horror 🧟 are my favourite genres.
 
 ## 🏫 Education 🎓
-| Qualification| Specialization | School/University | year |
-|:-------------|:------------------|:------|
-| B. Tech | Electrical & Electronics | Vaagdevi Engineering College (JNTU Hyd) | 2012 |
-| B. Sc | Data Science and Machine Learning | IIT Madras | Currently pursuing |
+| Qualification| Specialization                    | School/University                       | year               |
+| :------------| :-------------------------------- | :-------------------------------------- | :----------------- |
+| B. Tech      | Electrical & Electronics          | Vaagdevi Engineering College (JNTU Hyd) | 2012               |
+| B. Sc        | Data Science and Machine Learning | IIT Madras                              | Currently pursuing |
 
 ## Experience
 
