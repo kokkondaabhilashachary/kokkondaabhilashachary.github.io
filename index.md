@@ -1,16 +1,15 @@
 # Abhilash Kokkonda
-| [LinkedIn](https://www.linkedin.com/in/kokkonda-abhilash/) | [Stack Overflow](https://stackoverflow.com/users/story/9832322) |
+| [LinkedIn](https://www.linkedin.com/in/kokkonda-abhilash) | [Stack Overflow](https://stackoverflow.com/users/story/9832322) |
 - Java & NodeJS Full-Stack Engineer
-- ML Under-Grad at IIT Madras
 
 
 ## Career
 
 ## Education
-- Electirical and Electronics Engineering at Vaagdevi Engineering College (Bollikunta, Warangal)
-- Bachelor of Science in Machine Learning, IIT Madras, Chennai
-- Diploma in Data Science, IIT Madras, Chennai
-- Diploma in Programming, IIT Madras, Chennai
+- Electirical and Electronics Engineering at [Vaagdevi Engineering College (Bollikunta, Warangal)](https://www.vecw.edu.in/)
+- Bachelor of Science in Machine Learning, [IIT Madras, Chennai](https://onlinedegree.iitm.ac.in/)
+- Diploma in Data Science, [IIT Madras, Chennai](https://onlinedegree.iitm.ac.in/)
+- Diploma in Programming, [IIT Madras, Chennai](https://onlinedegree.iitm.ac.in/)
 
 ## Experience
 
