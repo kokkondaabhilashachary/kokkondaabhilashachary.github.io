@@ -1,4 +1,3 @@
-# Abhilash Kokkonda
 | [LinkedIn](https://www.linkedin.com/in/kokkonda-abhilash) | [Stack Overflow](https://stackoverflow.com/users/story/9832322) |
 - Java & NodeJS Full-Stack Engineer
 
