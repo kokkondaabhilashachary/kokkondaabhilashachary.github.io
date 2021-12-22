@@ -24,8 +24,8 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 ## 💼 Experience 🖇️
 
 > ##### Cognizant Technology Solutions | May 2014 - June 2019 | Associte Software Engineer
+<mark style="background-color: lightblue">Java8</mark> <mark style="background-color: lightblue">NodeJs</mark> <mark style="background-color: lightblue">ReST API</mark> <mark style="background-color: lightblue">AWSLambda</mark> <mark style="background-color: lightblue">AWSCloudWatch</mark> <mark style="background-color: lightblue">AWSAPIGateway</mark> <mark style="background-color: lightblue">AWSKMS</mark> <mark style="background-color: lightblue">AWSS3</mark>
 - An associate software engineer, responsible for adding new features and enhancing exiting features to online user account management of an **Oil and Gas major of UK**.
-- Worked on various technologies like Java8, NodeJs, design and development of ReST APIs and AWS Cloud services like AWS Lambda, AWS KMS, AWS APIGateway and AWS S3.
 - Hadled new features like Payments, Quotes and Registration.
 - Responsible to impart knowledge transfers on application to new joins.
 
