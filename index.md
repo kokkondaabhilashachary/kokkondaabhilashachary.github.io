@@ -24,7 +24,7 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 ## 💼 Experience 🖇️
 
 > ##### Cognizant Technology Solutions | May 2014 - Jun 2019 | Associate Software Engineer
-`Java8` `NodeJS` `ReSTAPI` `AWSLambda` `AWSCloudWatch`  `AWSAPIGateway` `AWSKMS` `AWSS3` `eCobertura` `JUnit`
+<mark style="background-color: #3d7ce3; color: #ffffff;">Java8</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">NodeJs</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">ReST API</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">AWSLambda</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">AWSCloudWatch</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">AWSAPIGateway</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">AWSKMS</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">AWSS3</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">eCobertura</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">JUnit</mark>
 - An Associate Software Engineer, responsible for adding new features and enhancing exiting flows to online user account management of an **Oil and Gas major of the UK**.
 - Handled new features like Payments, Quotes and Registration.
 - Responsible to impart knowledge transfers on application flows to the new joins.
@@ -36,3 +36,8 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 - The custom skills include features like **Benefits (deductibles, out-of pocket, HRA, HSA), Health Tips, Scheduling and Managing Callbacks, Appointments' Scheduling, Finding Care Providers (near me)** etc.
 - Complete development and maintenance of reporting tool - A web-app that helps getting key metrics of the skill usage on-the-go, like, no. of. active users, intents most invoked, intents less invoked, no. of. users who disabled the skill, etc.
 - Responsibile for timeless code - **Quality code all the time.**
+
+### 📚 Learnings & Certifications 🧑‍🎓
+> Certified Full-Stack (MEANJS) Engineer from [StackRoute](https://stackroutelearning.com/)
+> Certificate of Completion - CSS3
+`Grid` `FlexBox`
