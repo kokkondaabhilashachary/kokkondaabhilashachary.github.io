@@ -21,5 +21,12 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 | B. Tech      | Electrical & Electronics          | Vaagdevi Engineering College (JNTU Hyd) | 2012               |
 | B. Sc        | Data Science and Machine Learning | IIT Madras                              | Currently pursuing |
 
-## Experience
+## 💼 Experience 🖇️
+### Cognizant Technology Solutions | May 2014 - June 2019 | Associte Software Engineer
+- An associate software engineer, responsible for adding new features and enhancing exiting features to online user account management of an **Oil and Gas major of UK**.
+- Worked on various technologies like Java8, NodeJs, design and development of ReST APIs and AWS Cloud services like AWS Lambda, AWS KMS, AWS APIGateway and AWS S3.
+- Hadled new features like Payments, Quotes and Registration.
+- Responsible to impart knowledge transfers on application to new joins.
+### UST Global | September 2019 - February 2020 | Senior Systemts Analyst (C2H for Legato)
 
+### Legato Health Technologies | Current Position | Senior Software Engineer
