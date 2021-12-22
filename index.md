@@ -23,12 +23,12 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 
 ## 💼 Experience 🖇️
 
-##### Cognizant Technology Solutions | May 2014 - June 2019 | Associte Software Engineer
+> ##### Cognizant Technology Solutions | May 2014 - June 2019 | Associte Software Engineer
 - An associate software engineer, responsible for adding new features and enhancing exiting features to online user account management of an **Oil and Gas major of UK**.
 - Worked on various technologies like Java8, NodeJs, design and development of ReST APIs and AWS Cloud services like AWS Lambda, AWS KMS, AWS APIGateway and AWS S3.
 - Hadled new features like Payments, Quotes and Registration.
 - Responsible to impart knowledge transfers on application to new joins.
 
-##### UST Global | Sep 2019 - Feb 2020 | Senior Systemts Analyst (C2H for Legato)
+> ##### UST Global | Sep 2019 - Feb 2020 | Senior Systemts Analyst (C2H for Legato)
 
-##### Legato Health Technologies | Current Position | Senior Software Engineer
+> ##### Legato Health Technologies | Current Position | Senior Software Engineer
