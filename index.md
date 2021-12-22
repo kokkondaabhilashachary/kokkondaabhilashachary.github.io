@@ -30,9 +30,9 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 - Responsible to impart knowledge transfers on application flows to the new joins.
 
 > ##### Legato Health Technologies | Current Position | Senior Software Engineer
-<em>`C2H (by UST Global Sep 2019 - Feb 2020) and FTE`</em><br/>
+<em>`C2H (by UST Global Sep 2019 - Feb 2020) and FTE (Current)`</em><br/>
 <mark style="background-color: #3d7ce3; color: #ffffff;">Alexa Custom Skills</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">ASKSDK</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">Java8</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">NodeJs</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">ExpressJs</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">AWSLambda</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">AWSCloudWatch</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">Angular</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">MongoDB</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">ReST API</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">SpringBoot</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">SpringJPA</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">CheckMarx</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">Snyk</mark>
-- Full-Stack Engineer - To develop **voice based custom skills for Alexa** & desing and development of ReST APIs for an **Insurance Major of the US**.
-- The custom skill include features like **Benefits, Health Tips, Scheduling and Managing Callbacks, Appointment Schduling, Finding Care Providers (near me)** etc.
-- Complete development and maintenance of reporting tool - A web-app that helps getting key metrics of the skill usage on-the-go, like no. of. active users, intents most invoked, intents less invoked, no. of. users who disabled the skill, etc. Tech-Stack include SpringBoot, Angular8, SpringJPA, MongoDB, BootStrap.
-- Responsibile for timeless code - Quality code all the time.
+- Java and NodeJS Full-Stack Engineer - Responsible to develop **voice based custom skills for Alexa** & desing and development of ReST APIs for an **Insurance Major of the US**.
+- The custom skills include features like **Benefits (deductibles, out-of pocket, HRA, HSA), Health Tips, Scheduling and Managing Callbacks, Appointments' Scheduling, Finding Care Providers (near me)** etc.
+- Complete development and maintenance of reporting tool - A web-app that helps getting key metrics of the skill usage on-the-go, like, no. of. active users, intents most invoked, intents less invoked, no. of. users who disabled the skill, etc.
+- Responsibile for timeless code - **Quality code all the time.**
