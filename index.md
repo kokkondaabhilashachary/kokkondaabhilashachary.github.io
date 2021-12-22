@@ -24,11 +24,11 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 ## 💼 Experience 🖇️
 
 > ##### Cognizant Technology Solutions | May 2014 - Jul 2019 | Associate Software Engineer
-<mark style="background-color: #3d7ce3; font-size: 0.95rem; color: #ffffff;">Java8</mark> <mark style="background-color: #3d7ce3; font-size: 0.95rem; color: #ffffff;">NodeJs</mark> <mark style="background-color: #3d7ce3; font-size: 0.95rem; color: #ffffff;">ReST API</mark> <mark style="background-color: #3d7ce3; font-size: 0.95rem; color: #ffffff;">AWSLambda</mark> <mark style="background-color: #3d7ce3; font-size: 0.95rem; color: #ffffff;">AWSCloudWatch</mark> <mark style="background-color: #3d7ce3; font-size: 0.95rem; color: #ffffff;">AWSAPIGateway</mark> <mark style="background-color: #3d7ce3; font-size: 0.95rem; color: #ffffff;">AWSKMS</mark> <mark style="background-color: #3d7ce3; font-size: 0.95rem; color: #ffffff;">AWSS3</mark>
+<mark style="background-color: #3d7ce3; color: #ffffff;">Java8</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">NodeJs</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">ReST API</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">AWSLambda</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">AWSCloudWatch</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">AWSAPIGateway</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">AWSKMS</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">AWSS3</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">eCobertura</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">JUnit</mark>
 - An Associate Software Engineer, responsible for adding new features and enhancing exiting flows to online user account management of an **Oil and Gas major of the UK**.
 - Handled new features like Payments, Quotes and Registration.
 - Responsible to impart knowledge transfers on application flows to the new joins.
 
-> ##### UST Global | Sep 2019 - Feb 2020 | Senior Systems Analyst (C2H for Legato)
+> ##### Legato Health Technologies | Current Position | Senior Software Engineer
 
 > ##### Legato Health Technologies | Current Position | Senior Software Engineer
