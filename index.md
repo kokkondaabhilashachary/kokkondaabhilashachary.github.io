@@ -23,12 +23,12 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 
 ## 💼 Experience 🖇️
 
-> ##### Cognizant Technology Solutions | May 2014 - June 2019 | Associte Software Engineer
+> ##### Cognizant Technology Solutions | May 2014 - Jul 2019 | Associate Software Engineer
 <mark style="background-color: orange; font-size: 0.875rem">Java8</mark> <mark style="background-color: orange; font-size: 0.875rem">NodeJs</mark> <mark style="background-color: orange; font-size: 0.875rem">ReST API</mark> <mark style="background-color: orange; font-size: 0.875rem">AWSLambda</mark> <mark style="background-color: orange; font-size: 0.875rem">AWSCloudWatch</mark> <mark style="background-color: orange; font-size: 0.875rem">AWSAPIGateway</mark> <mark style="background-color: orange; font-size: 0.875rem">AWSKMS</mark> <mark style="background-color: orange; font-size: 0.875rem">AWSS3</mark>
-- An associate software engineer, responsible for adding new features and enhancing exiting features to online user account management of an **Oil and Gas major of UK**.
-- Hadled new features like Payments, Quotes and Registration.
-- Responsible to impart knowledge transfers on application to new joins.
+- An Associate Software Engineer, responsible for adding new features and enhancing exiting flows to online user account management of an **Oil and Gas major of the UK**.
+- Handled new features like Payments, Quotes and Registration.
+- Responsible to impart knowledge transfers on application flows to the new joins.
 
-> ##### UST Global | Sep 2019 - Feb 2020 | Senior Systemts Analyst (C2H for Legato)
+> ##### UST Global | Sep 2019 - Feb 2020 | Senior Systems Analyst (C2H for Legato)
 
 > ##### Legato Health Technologies | Current Position | Senior Software Engineer
