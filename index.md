@@ -30,4 +30,4 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 - Responsible to impart knowledge transfers on application flows to the new joins.
 
 > ##### Legato Health Technologies | Current Position | Senior Software Engineer
-###### C2H by UST Global (Sep 2019 - Feb 2020) & FTE for Legato (Current)
+`C2H by UST Global (Sep 2019 - Feb 2020) & FTE for Legato (Current)`
