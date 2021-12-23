@@ -76,5 +76,6 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 
         let contact_links = document.getElementById('-linkedin--stack-overflow-');
         contact_links.style['text-align'] = 'center';
+        contact_links.style['margin-top'] = 0;
     });
 </script>
