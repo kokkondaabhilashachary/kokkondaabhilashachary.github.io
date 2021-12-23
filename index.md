@@ -45,9 +45,9 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 [StackRoute](https://stackroutelearning.com/) ** an NIIT Initiative**.
 ###### Cascading Style Sheets Version 3
 `Grid` `FlexBox` `Sass`<br/>
-[Udemy](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) | [See Credential][https://www.udemy.com/certificate/UC-a3dadf3e-5ce1-4e90-9032-5933d94e1d0b/]
+**[Udemy](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) | [See Credential](https://www.udemy.com/certificate/UC-a3dadf3e-5ce1-4e90-9032-5933d94e1d0b/)**
 ###### Basics of Apache Kafka Developer
-`Topics`, `Partitions`, `Brokers`, `Replicas`, `Producers`, `Consumers` `Kafka Connect` `Kafka Streams`
-[Udemy](https://www.udemy.com/course/apache-kafka/) | [See Credential][https://www.udemy.com/certificate/UC-c121b785-e169-43d1-9662-82903ddb66c0/]
+`Topics`, `Partitions`, `Brokers`, `Replicas`, `Producers`, `Consumers` `Kafka Connect` `Kafka Streams`<br/>
+**[Udemy](https://www.udemy.com/course/apache-kafka/) | [See Credential](https://www.udemy.com/certificate/UC-c121b785-e169-43d1-9662-82903ddb66c0/)**
 ###### Spring Cloud Fundamentals
-[PluralSight](https://app.pluralsight.com/library/courses/spring-cloud-fundamentals/table-of-contents)
+**[PluralSight](https://app.pluralsight.com/library/courses/spring-cloud-fundamentals/table-of-contents)**
