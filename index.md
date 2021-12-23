@@ -1,3 +1,15 @@
+<script language="javascript">
+    document.ready(function() {
+        document.getElementById('forkme_banner').style.display = 'none';
+
+        let project_title = document.getElementsById('project_title');
+        project_title.value = 'Kokkonda Abhilasha Chary';
+
+        let project_tagline = document.getElementsById('project_tagline');
+        project_tagline.value = 'Java and NodeJS Full-Stack Engineer';
+    });
+</script>
+
 ---
 title: "Kokkonda Abhilash"
 tags: ["NodeJS", "Java", "Full-Stack", "ML", "Machine Learning", "Data Science", "IIT Madras"]
