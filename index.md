@@ -59,9 +59,12 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
         document.getElementById('forkme_banner').style.display = 'none';
 
         let project_title = document.getElementById('project_title');
+        project_title.style['text-align'] = 'center';
         project_title.value = 'Kokkonda Abhilasha Chary';
+        project_title.innerText = 'Kokkonda Abhilasha Chary';
 
         let project_tagline = document.getElementById('project_tagline');
         project_tagline.value = 'Java and NodeJS Full-Stack Engineer';
+        project_tagline.innerText = 'Java and NodeJS Full-Stack Engineer';
     });
 </script>
