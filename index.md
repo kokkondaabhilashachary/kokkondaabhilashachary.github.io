@@ -1,15 +1,3 @@
-<script language="javascript">
-    document.onload(function() {
-        document.getElementById('forkme_banner').style.display = 'none';
-
-        let project_title = document.getElementsById('project_title');
-        project_title.value = 'Kokkonda Abhilasha Chary';
-
-        let project_tagline = document.getElementsById('project_tagline');
-        project_tagline.value = 'Java and NodeJS Full-Stack Engineer';
-    });
-</script>
-
 ---
 title: "Kokkonda Abhilash"
 tags: ["NodeJS", "Java", "Full-Stack", "ML", "Machine Learning", "Data Science", "IIT Madras"]
@@ -64,3 +52,16 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 #### Spring Cloud Fundamentals
 `Netflix Eureka` `Spring Cloud Config Server` `Netflix Zuul` `Netflix Hystrix` `Netflix Ribbon`<br/>
 **[PluralSight](https://app.pluralsight.com/library/courses/spring-cloud-fundamentals/table-of-contents)**
+
+
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function() {
+        document.getElementById('forkme_banner').style.display = 'none';
+
+        let project_title = document.getElementsById('project_title');
+        project_title.value = 'Kokkonda Abhilasha Chary';
+
+        let project_tagline = document.getElementsById('project_tagline');
+        project_tagline.value = 'Java and NodeJS Full-Stack Engineer';
+    });
+</script>
