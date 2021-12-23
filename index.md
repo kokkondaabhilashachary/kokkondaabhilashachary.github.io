@@ -80,8 +80,11 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
         skill_title.style['padding-bottom'] = 0;
         skill_title.style['margin-bottom'] = 0;
 
-        let contact_links = document.getElementById('-linkedin--stack-overflow--download-resume--email--91-9494-874-335-');
+        let contact_links = document.getElementById('-linkedin--stack-overflow--download-resume-');
         contact_links.style['text-align'] = 'center';
         contact_links.style['margin-top'] = 0;
+
+        let email_phone = document.getElementById('-e-mail-abhilashkokkondagmailcom--phone-91-9494-874-335-');
+        email_phone.style['text-align'] = 'center';
     });
 </script>
