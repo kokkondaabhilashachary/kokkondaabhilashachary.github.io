@@ -73,6 +73,7 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
         let skill_title = document.getElementById('java--nodejs-full-stack-engineer');
         skill_title.style['text-align'] = 'center';
         skill_title.style['padding-bottom'] = 0;
+        skill_title.style['margin-bottom'] = 0;
 
         let contact_links = document.getElementById('-linkedin--stack-overflow-');
         contact_links.style['text-align'] = 'center';
