@@ -57,8 +57,9 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 
 <script type="text/javascript">
     document.addEventListener('DOMContentLoaded', function() {
-        document.getElementById('forkme_banner').style.display = 'none';
-
+        if (document.getElementById('forkme_banner')) {
+            document.getElementById('forkme_banner').style.display = 'none';
+        }
         let project_title = document.getElementById('project_title');
         project_title.style['text-align'] = 'center';
         project_title.value = 'Kokkonda Abhilasha Chary';
