@@ -39,7 +39,7 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 - Responsibile for timeless code - **Quality code all the time.**
 
 
-### 📚 Learnings & Certifications 🧑‍🎓
+## 📚 Learnings & Certifications 📜
 
 ##### Certified Full-Stack (MEANJS) Engineer
 **[StackRoute](https://stackroutelearning.com/) An NIIT Initiative.**
