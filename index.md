@@ -24,20 +24,21 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 ## 💼 Experience 🖇️
 
 > ##### Cognizant Technology Solutions | May 2014 - Jun 2019 | Associate Software Engineer
-<mark style="background-color: #3d7ce3; color: #ffffff;">Java8</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">NodeJs</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">ReST API</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">AWSLambda</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">AWSCloudWatch</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">AWSAPIGateway</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">AWSKMS</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">AWSS3</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">eCobertura</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">JUnit</mark>
+<mark style="background-color: #e1ecf4; color: #39739d;">Java8</mark> <mark style="background-color: #e1ecf4; color: #39739d;">NodeJs</mark> <mark style="background-color: #e1ecf4; color: #39739d;">ReST API</mark> <mark style="background-color: #e1ecf4; color: #39739d;">AWSLambda</mark> <mark style="background-color: #e1ecf4; color: #39739d;">AWSCloudWatch</mark> <mark style="background-color: #e1ecf4; color: #39739d;">AWSAPIGateway</mark> <mark style="background-color: #e1ecf4; color: #39739d;">AWSKMS</mark> <mark style="background-color: #e1ecf4; color: #39739d;">AWSS3</mark> <mark style="background-color: #e1ecf4; color: #39739d;">eCobertura</mark> <mark style="background-color: #e1ecf4; color: #39739d;">JUnit</mark>
 - An Associate Software Engineer, responsible for adding new features and enhancing exiting flows to online user account management of an **Oil and Gas major of the UK**.
 - Handled new features like Payments, Quotes and Registration.
 - Responsible to impart knowledge transfers on application flows to the new joins.
 
 > ##### Legato Health Technologies | Current Position | Senior Software Engineer
 <em>`C2H (by UST Global Sep 2019 - Feb 2020) and FTE (Current)`</em><br/>
-<mark style="background-color: #3d7ce3; color: #ffffff;">Alexa Custom Skills</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">ASKSDK</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">Java8</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">NodeJs</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">ExpressJs</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">AWSLambda</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">AWSCloudWatch</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">Angular</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">MongoDB</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">ReST API</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">SpringBoot</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">SpringJPA</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">CheckMarx</mark> <mark style="background-color: #3d7ce3; color: #ffffff;">Snyk</mark>
+<mark style="background-color: #e1ecf4; color: #39739d;">Alexa Custom Skills</mark> <mark style="background-color: #e1ecf4; color: #39739d;">ASKSDK</mark> <mark style="background-color: #e1ecf4; color: #39739d;">Java8</mark> <mark style="background-color: #e1ecf4; color: #39739d;">NodeJs</mark> <mark style="background-color: #e1ecf4; color: #39739d;">ExpressJs</mark> <mark style="background-color: #e1ecf4; color: #39739d;">AWSLambda</mark> <mark style="background-color: #e1ecf4; color: #39739d;">AWSCloudWatch</mark> <mark style="background-color: #e1ecf4; color: #39739d;">Angular</mark> <mark style="background-color: #e1ecf4; color: #39739d;">MongoDB</mark> <mark style="background-color: #e1ecf4; color: #39739d;">ReST API</mark> <mark style="background-color: #e1ecf4; color: #39739d;">SpringBoot</mark> <mark style="background-color: #e1ecf4; color: #39739d;">SpringJPA</mark> <mark style="background-color: #e1ecf4; color: #39739d;">CheckMarx</mark> <mark style="background-color: #e1ecf4; color: #39739d;">Snyk</mark>
 - Java and NodeJS Full-Stack Engineer - Responsible to develop **voice based custom skills for Alexa** & desing and development of ReST APIs for an **Insurance Major of the US**.
 - The custom skills include features like **Benefits (deductibles, out-of pocket, HRA, HSA), Health Tips, Scheduling and Managing Callbacks, Appointments' Scheduling, Finding Care Providers (near me)** etc.
 - Complete development and maintenance of reporting tool - A web-app that helps getting key metrics of the skill usage on-the-go, like, no. of. active users, intents most invoked, intents less invoked, no. of. users who disabled the skill, etc.
 - Responsibile for timeless code - **Quality code all the time.**
 
+
 ### 📚 Learnings & Certifications 🧑‍🎓
-> Certified Full-Stack (MEANJS) Engineer from [StackRoute](https://stackroutelearning.com/)
-> Certificate of Completion - CSS3
-`Grid` `FlexBox`
+
+- Certified Full-Stack (MEANJS) Engineer from [StackRoute](https://stackroutelearning.com/)
+- Certificate of Completion - CSS3 `Grid` `FlexBox`
