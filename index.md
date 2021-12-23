@@ -1,5 +1,5 @@
 <script language="javascript">
-    document.ready(function() {
+    document.onload(function() {
         document.getElementById('forkme_banner').style.display = 'none';
 
         let project_title = document.getElementsById('project_title');
