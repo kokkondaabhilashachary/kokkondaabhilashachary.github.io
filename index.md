@@ -3,7 +3,7 @@ title: "Kokkonda Abhilash"
 tags: ["NodeJS", "Java", "Full-Stack", "ML", "Machine Learning", "Data Science", "IIT Madras"]
 ---
 ## Java & NodeJS Full-Stack Engineer
-##### | [LinkedIn](https://www.linkedin.com/in/kokkonda-abhilash) | [Stack Overflow](https://stackoverflow.com/users/story/9832322) | [Download Resume](https://github.com/kokkondaabhilashachary/kokkondaabhilashachary.github.io/raw/main/resume.pdf)
+##### | [LinkedIn](https://www.linkedin.com/in/kokkonda-abhilash) | [Stack Overflow](https://stackoverflow.com/users/story/9832322) | [Download Resume](https://github.com/kokkondaabhilashachary/portfolio-downloadable-assets/raw/main/resume.pdf)
 <br/>
 ## About me
 
@@ -54,6 +54,10 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 #### Programming in Python
 **[IIT Madras](https://onlinedegree.iitm.ac.in/course_pages/BSCCS1002.html)**
 
+## 📱 Contact Me 📧
+
+- ###### [Kokkonda Abhilasha Chary](mailto:abhilashkokkonda@gmail.com)
+- ###### [+91-9494-874-335](tel:+91 9494874335)
 
 <script type="text/javascript">
     document.addEventListener('DOMContentLoaded', function() {
