@@ -2,9 +2,8 @@
 title: "Kokkonda Abhilash"
 tags: ["NodeJS", "Java", "Full-Stack", "ML", "Machine Learning", "Data Science", "IIT Madras"]
 ---
-## Abhilash Kokkonda
-##### **Java & NodeJS Full-Stack Engineer**
-| [LinkedIn](https://www.linkedin.com/in/kokkonda-abhilash) | [Stack Overflow](https://stackoverflow.com/users/story/9832322) |
+## Java & NodeJS Full-Stack Engineer
+##### | [LinkedIn](https://www.linkedin.com/in/kokkonda-abhilash) | [Stack Overflow](https://stackoverflow.com/users/story/9832322) |
 
 ## About me
 
@@ -62,9 +61,11 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
         project_title.style['text-align'] = 'center';
         project_title.value = 'Kokkonda Abhilasha Chary';
         project_title.innerText = 'Kokkonda Abhilasha Chary';
-
+/*
         let project_tagline = document.getElementById('project_tagline');
+        project_tagline.style['text-align'] = 'center';
         project_tagline.value = 'Java and NodeJS Full-Stack Engineer';
         project_tagline.innerText = 'Java and NodeJS Full-Stack Engineer';
+*/
     });
 </script>
