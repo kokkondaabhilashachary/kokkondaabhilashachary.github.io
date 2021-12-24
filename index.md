@@ -104,7 +104,7 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
             element = document.getElementById('copy-mobile');
             element = document.querySelector('[href="tel:+91 9494874335"]');
         }
-        var copyText = element.innerText;
+        var copyText = element;
         var range = document.createRange();
         var selection = window.getSelection();
         range.selectNodeContents(copyText);  
