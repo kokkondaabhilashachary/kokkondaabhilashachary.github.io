@@ -99,14 +99,19 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
         let element;
         if ('email' === from) {
             button = document.getElementById('copy-email');
-            element = document.querySelector('[href="mailto:abhilashkokkonda@gmail.com"]')[0];
+            element = document.querySelector('[href="mailto:abhilashkokkonda@gmail.com"]');
         } else {
             element = document.getElementById('copy-email');
-            element = document.querySelector('[href="tel:+91 9494874335"]')[0];
+            element = document.querySelector('[href="tel:+91 9494874335"]');
         }
-        element.select();
-        element.setSelectionRange(0, 99999); /* For mobile devices */
-        navigator.clipboard.writeText(element.innerText);
-        button.innerText = 'Copied!';
+        var copyText = element.innerText;
+        var range = document.createRange();
+        var selection = window.getSelection();
+        range.selectNodeContents(copyText);  
+        selection.removeAllRanges();
+        selection.addRange(range);
+        document.execCommand('copy');
+
+        button.innertext = 'Copied!';
     }
 </script>
