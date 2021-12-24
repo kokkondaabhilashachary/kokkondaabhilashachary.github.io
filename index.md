@@ -80,7 +80,7 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
         contact_links.style['text-align'] = 'center';
         contact_links.style['margin-top'] = 0;
 
-        let email_phone = document.getElementById('-e-mail-abhilashkokkondagmailcom--phone-91-9494-874-335-');
+        let email_phone = document.getElementById('-mail-abhilashkokkondagmailcom--phone-91-9494-874-335-');
         email_phone.style['text-align'] = 'center';
     });
 </script>
