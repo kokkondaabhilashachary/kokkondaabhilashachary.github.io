@@ -1,10 +1,6 @@
----
-title: "Kokkonda Abhilash"
-tags: ["NodeJS", "Java", "Full-Stack", "ML", "Machine Learning", "Data Science", "IIT Madras"]
----
 ## Java & NodeJS Full-Stack Engineer
 ###### | [LinkedIn](https://www.linkedin.com/in/kokkonda-abhilash) | [Stack Overflow](https://stackoverflow.com/users/story/9832322) | [Download Resume](https://github.com/kokkondaabhilashachary/portfolio-downloadable-assets/raw/main/resume.pdf) |
-###### | E-Mail: `abhilashkokkonda@gmail.com` | Phone: `+91-9494-874-335` |
+###### | Mail: `abhilashkokkonda@gmail.com` | Phone: `+91-9494-874-335` |
 <br/>
 ## About me
 
