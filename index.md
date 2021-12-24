@@ -53,7 +53,7 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 
 ## 📱 Get In Touch 📧
 
-- ###### [Kokkonda Abhilasha Chary](mailto:abhilashkokkonda@gmail.com)
+- ###### [ABHILASHKOKKONDA@GMAIL.COM](mailto:abhilashkokkonda@gmail.com)
 - ###### [+91-9494-874-335](tel:+91 9494874335)
 
 <script type="text/javascript">
