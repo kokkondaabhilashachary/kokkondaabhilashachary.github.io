@@ -53,8 +53,8 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 
 ## 📱 Get In Touch 📧
 
-- ###### [ABHILASHKOKKONDA@GMAIL.COM](mailto:abhilashkokkonda@gmail.com) <button id='copy-email' onfocusout="resetToCopy('email')" onclick="setToCopied('email')">Copy</button>
-- ###### [+91-9494-874-335](tel:+91 9494874335) <button id='copy-mobile' onfocusout="resetToCopy('mobile')" onclick="setToCopied('mobile')">Copy</button>
+- ###### [ABHILASHKOKKONDA@GMAIL.COM](mailto:abhilashkokkonda@gmail.com) <!-- <button id='copy-email' onfocusout="resetToCopy('email')" onclick="setToCopied('email')">Copy</button> -->
+- ###### [+91-9494-874-335](tel:+91 9494874335) <!-- <button id='copy-mobile' onfocusout="resetToCopy('mobile')" onclick="setToCopied('mobile')">Copy</button> -->
 
 <script type="text/javascript">
     document.addEventListener('DOMContentLoaded', function() {
@@ -83,7 +83,7 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
         let email_phone = document.getElementById('-mail-abhilashkokkondagmailcom--phone-91-9494-874-335-');
         email_phone.style['text-align'] = 'center';
     });
-
+/*
     function resetToCopy(from) {
         let element;
         if ('email' === from) {
@@ -111,7 +111,7 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
         selection.removeAllRanges();
         selection.addRange(range);
         document.execCommand('copy');
-
         button.textContent = 'Copied!';
     }
+*/
 </script>
