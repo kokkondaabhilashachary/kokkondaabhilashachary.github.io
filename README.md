@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+#_Portfolio Project_
 
-You can use the [editor on GitHub](https://github.com/kokkondaabhilashachary/kokkondaabhilashachary.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+####_This is a site made by Markdown, HTML and JavaScript
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+####_Kokkonda Abhilasha Chary_
 
-### Markdown
+## Description
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_This site is a home page for my portfolio. It will show previous work history, schools attended and have links to my LinkedIn and StackOverFlow profiles._
 
-```markdown
-Syntax highlighted code block
+## Setup/Installation Requirements
 
-# Header 1
-## Header 2
-### Header 3
+* _Open terminal or a similar app on your computer_
+* _change directory to Desktop_
+* _copy https://github.com/kokkondaabhilashachary/kokkondaabhilashachary.github.io_
+* _use git clone and paste that link after it to clone the repository_
+* _open the folder it provides_
+* _open the HTML folder inside_\
+* _https://kokkondaabhilashachary.github.io/_\
+* As it is custom hosting, you will be automatically navigated to [https://kokkondaabhilash.me/](https://kokkondaabhilash.me/)
 
-- Bulleted
-- List
+## Contact Details
 
-1. Numbered
-2. List
+_email: abhilashkokkonda@gmail.com_
 
-**Bold** and _Italic_ and `Code` text
+## Technologies Used
 
-[Link](url) and ![Image](src)
-```
+_Markdown_
+_HTML_
+_JavaScript_
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### License
 
-### Jekyll Themes
+_This site is licensed under the GNU Public V 3.0 license_
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kokkondaabhilashachary/kokkondaabhilashachary.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Copyright(c) 2016 **_Bobby Crowston_**
