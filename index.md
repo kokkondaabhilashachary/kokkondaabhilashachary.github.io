@@ -91,8 +91,8 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
         } else {
             element = document.getElementById('copy-number');
         }
-        element.style['backgroundColor'] = '#fff';
-        element.style['fontSize'] = '0.875em';
+        delete element.style['backgroundColor']; 
+        delete element.style['fontSize'];
         element.innerText = 'Copy';
     }
 
