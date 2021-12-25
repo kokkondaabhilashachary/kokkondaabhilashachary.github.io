@@ -57,11 +57,11 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 - ###### [+91-9494-874-335](tel:+91 9494874335) <code onmousedown="setToCopied('number')" onmouseup="resetToCopy('number')" ontouchstart="setToCopied('number')" ontouchend="resetToCopy('number')" id='copy-number'>Copy</code>
 
 <script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function() {
     let footer = document.getElementsByTagName('footer')[0];
     const node = document.createElement('p');
     node.innerHTML = 'Repository: <a href="https://github.com/kokkondaabhilashachary/kokkondaabhilashachary.github.io">kokkondaabhilashachary.github.io</a> Maintained by <a href="https://github.com/kokkondaabhilashachary">Kokkonda Abhilasha Chary</a>';
     footer.appendChild(node);
-    document.addEventListener('DOMContentLoaded', function() {
         if (document.getElementById('forkme_banner')) {
             document.getElementById('forkme_banner').style.display = 'none';
         }
