@@ -116,7 +116,6 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
         document.execCommand('copy');
 
         button.focus();
-        button.select();
         button.innerText = 'Copied!';
     }
 </script>
