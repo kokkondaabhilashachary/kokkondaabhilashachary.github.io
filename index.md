@@ -91,7 +91,7 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
         } else {
             element = document.getElementById('copy-number');
         }
-        delete element.style['backgroundColor'];
+        element.style['backgroundColor'] = '#fff';
         element.innerText = 'Copy';
     }
 
@@ -113,6 +113,7 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
         selection.addRange(range);
         document.execCommand('copy');
 
+        button.style['backgroundColor'] = 'yellow';
         button.innerText = 'Copied!';
     }
 </script>
