@@ -87,13 +87,6 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
     document.getElementById('copy-email').onfocusout = function() { resetToCopy('email') };
     document.getElementById('copy-number').onfocusout = function() { resetToCopy('number') };
 
-    document.getElementById('copy-email').onfocus = function() {
-        document.getElementById('copy-email').style.backgroundColor='yellow';
-    };
-    document.getElementById('copy-number').onfocus = function() {
-        document.getElementById('copy-number').style.backgroundColor='yellow';
-    };
-
     function resetToCopy(from) {
         let element;
         if ('email' === from) {
@@ -129,7 +122,6 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
         range.selectNodeContents(copyText); 
         selection.removeAllRanges();
         selection.addRange(range);
-        copyText.focus();
         button.innerText = 'Copied!';
     }
 </script>
