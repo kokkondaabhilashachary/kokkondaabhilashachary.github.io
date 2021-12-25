@@ -1,8 +1,8 @@
 ## Java & NodeJS Full-Stack Engineer
 ###### | [LinkedIn](https://www.linkedin.com/in/kokkonda-abhilash) | [Stack Overflow](https://stackoverflow.com/users/story/9832322) | [Download Resume](https://github.com/kokkondaabhilashachary/portfolio-downloadable-assets/raw/main/resume.pdf) |
 ###### | Mail: `abhilashkokkonda@gmail.com` | Phone: `+91-9494-874-335` |
-<br/>
 <p align="right">(<a style="margin: 0; padding: 0" href="#bottom">Contact Me</a>)</p>
+
 ## About me
 
 ### 💻 Technically speaking ⚙️...
