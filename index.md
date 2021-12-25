@@ -129,7 +129,7 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
         range.selectNodeContents(copyText); 
         selection.removeAllRanges();
         selection.addRange(range);
-        button.focus();
+        copyText.focus();
         button.innerText = 'Copied!';
     }
 </script>
