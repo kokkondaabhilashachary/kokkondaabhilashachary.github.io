@@ -53,7 +53,7 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 
 ## 📱 Get In Touch 📧
 
-- ###### [ABHILASHKOKKONDA@GMAIL.COM](mailto:abhilashkokkonda@gmail.com) <code onclick="setToCopied('number')" onfocusout="resetToCopy('number')" id='copy-email'>Copy</code>
+- ###### [ABHILASHKOKKONDA@GMAIL.COM](mailto:abhilashkokkonda@gmail.com) <code onclick="setToCopied('email')" onfocusout="resetToCopy('email')" id='copy-email'>Copy</code>
 - ###### [+91-9494-874-335](tel:+91 9494874335) <code onclick="setToCopied('number')" onfocusout="resetToCopy('number')" id='copy-number'>Copy</code>
 
 <script type="text/javascript">
