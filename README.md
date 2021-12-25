@@ -15,7 +15,7 @@ _This site is a home page for my portfolio. It will show previous work history, 
 * _copy https://github.com/kokkondaabhilashachary/kokkondaabhilashachary.github.io.git_
 * _use git clone and paste that link after it to clone the repository_
 * _open the folder it provides_
-* _open the HTML folder inside_
+* _open the index.md file inside the cloned repository_
 * _Open the web URL https://kokkondaabhilashachary.github.io/_
 * As it is custom hosting, you will be automatically navigated to [https://kokkondaabhilash.me/](https://kokkondaabhilash.me/)
 
@@ -33,4 +33,4 @@ _JavaScript_
 
 _This site is licensed under the GNU Public V 3.0 license_
 
-Copyright(c) 2016 **_Bobby Crowston_**
+Copyright(c) 2021 **_Kokkonda Abhilasha Chary_**
