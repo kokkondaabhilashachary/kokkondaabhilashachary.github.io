@@ -88,7 +88,7 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
         if ('email' === from) {
             element = document.getElementById('copy-email');
         } else {
-            element = document.getElementById('copy-mobile');
+            element = document.getElementById('copy-number');
         }
         element.innerText = 'Copy';
     }
@@ -100,7 +100,7 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
             button = document.getElementById('copy-email');
             element = document.querySelector('[href="mailto:abhilashkokkonda@gmail.com"]');
         } else {
-            button = document.getElementById('copy-mobile');
+            button = document.getElementById('copy-number');
             element = document.querySelector('[href="tel:+91 9494874335"]');
         }
         var copyText = element;
