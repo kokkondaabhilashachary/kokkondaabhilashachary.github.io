@@ -2,7 +2,7 @@
 ###### | [LinkedIn](https://www.linkedin.com/in/kokkonda-abhilash) | [Stack Overflow](https://stackoverflow.com/users/story/9832322) | [Download Resume](https://github.com/kokkondaabhilashachary/portfolio-downloadable-assets/raw/main/resume.pdf) |
 ###### | Mail: `abhilashkokkonda@gmail.com` | Phone: `+91-9494-874-335` |
 <br/>
-<p align="right">(<a href="#bottom">Contact Me</a>)</p>
+<p align="right">(<a style="margin: 0; padding: 0" href="#bottom">Contact Me</a>)</p>
 ## About me
 
 ### 💻 Technically speaking ⚙️...
@@ -56,7 +56,7 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 
 - ###### [abhilashkokkonda@gmail.com](mailto:abhilashkokkonda@gmail.com) <code onmousedown="setToCopied('email')" onmouseup="resetToCopy('email')" ontouchstart="setToCopied('email')" ontouchend="resetToCopy('email')" id='copy-email'>Copy</code>
 - ###### [+91-9494-874-335](tel:+91 9494874335) <code onmousedown="setToCopied('number')" onmouseup="resetToCopy('number')" ontouchstart="setToCopied('number')" ontouchend="resetToCopy('number')" id='copy-number'>Copy</code>
-<p align="right">(<a href="#top">back to top</a>)</p><span id="bottom"></span>
+<p align="right">(<a style="margin: 0; padding: 0" href="#top">Back to Top</a>)</p><span id="bottom"></span>
 
 <script type="text/javascript">
     document.addEventListener('DOMContentLoaded', function() {
