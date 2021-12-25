@@ -53,8 +53,8 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 
 ## 📱 Get In Touch 📧
 
-- ###### [ABHILASHKOKKONDA@GMAIL.COM](mailto:abhilashkokkonda@gmail.com) <code onclick="setToCopied('email')" id='copy-email'>Copy</code>
-- ###### [+91-9494-874-335](tel:+91 9494874335) <code onclick="setToCopied('number')" id='copy-number'>Copy</code>
+- ###### [ABHILASHKOKKONDA@GMAIL.COM](mailto:abhilashkokkonda@gmail.com) <code onmousedown="setToCopied('email')" onmouseup="resetToCopy('email')" id='copy-email'>Copy</code>
+- ###### [+91-9494-874-335](tel:+91 9494874335) <code onmousedown="setToCopied('number')" onmouseup="resetToCopy('number')" id='copy-number'>Copy</code>
 
 <script type="text/javascript">
     document.addEventListener('DOMContentLoaded', function() {
@@ -83,9 +83,6 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
         let email_phone = document.getElementById('-mail-abhilashkokkondagmailcom--phone-91-9494-874-335-');
         email_phone.style['text-align'] = 'center';
     });
-
-    document.getElementById('copy-email').onfocusout = function() { resetToCopy('email') };
-    document.getElementById('copy-number').onfocusout = function() { resetToCopy('number') };
 
     function resetToCopy(from) {
         let element;
@@ -116,12 +113,6 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
         selection.addRange(range);
         document.execCommand('copy');
 
-        copyText = button;
-        range = document.createRange();
-        selection = window.getSelection();
-        range.selectNodeContents(copyText); 
-        selection.removeAllRanges();
-        selection.addRange(range);
         button.innerText = 'Copied!';
     }
 </script>
