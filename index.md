@@ -123,7 +123,7 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
         selection.addRange(range);
         document.execCommand('copy');
 
-        copyText = element;
+        copyText = button;
         range = document.createRange();
         selection = window.getSelection();
         range.selectNodeContents(copyText); 
