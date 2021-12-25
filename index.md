@@ -53,8 +53,8 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 
 ## 📱 Get In Touch 📧
 
-- ###### [ABHILASHKOKKONDA@GMAIL.COM](mailto:abhilashkokkonda@gmail.com) `Copy`
-- ###### [+91-9494-874-335](tel:+91 9494874335) `Copy`
+- ###### [ABHILASHKOKKONDA@GMAIL.COM](mailto:abhilashkokkonda@gmail.com) <code id='copy-email'>Copy</code>
+- ###### [+91-9494-874-335](tel:+91 9494874335) <code id='copy-number'>Copy</code>
 
 <script type="text/javascript">
     document.addEventListener('DOMContentLoaded', function() {
