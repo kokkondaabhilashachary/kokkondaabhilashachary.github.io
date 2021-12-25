@@ -53,8 +53,8 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 
 ## 📱 Get In Touch 📧
 
-- ###### [abhilashkokkonda@gmail.com](mailto:abhilashkokkonda@gmail.com) <code onmousedown="setToCopied('email')" onmouseup="resetToCopy('email')" ontouchstart="touchStartEvent('email')" ontouchend="touchEndEvent('email')" id='copy-email'>Copy</code>
-- ###### [+91-9494-874-335](tel:+91 9494874335) <code onmousedown="setToCopied('number')" onmouseup="resetToCopy('number')" ontouchstart="touchStartEvent('number')" ontouchend="touchEndEvent('number')" id='copy-number'>Copy</code>
+- ###### [abhilashkokkonda@gmail.com](mailto:abhilashkokkonda@gmail.com) <code onmousedown="setToCopied('email')" onmouseup="resetToCopy('email')" ontouchstart="setToCopied('email')" ontouchend="resetToCopy('email')" id='copy-email'>Copy</code>
+- ###### [+91-9494-874-335](tel:+91 9494874335) <code onmousedown="setToCopied('number')" onmouseup="resetToCopy('number')" ontouchstart="setToCopied('number')" ontouchend="resetToCopy('number')" id='copy-number'>Copy</code>
 
 <script type="text/javascript">
     document.addEventListener('DOMContentLoaded', function() {
@@ -92,6 +92,7 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
             element = document.getElementById('copy-number');
         }
         element.style['backgroundColor'] = '#fff';
+        element.style['fontSize'] = '0.875em';
         element.innerText = 'Copy';
     }
 
@@ -113,42 +114,8 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
         selection.addRange(range);
         document.execCommand('copy');
 
-        button.style['backgroundColor'] = 'yellow';
-        button.innerText = 'Copied!';
-    }
-
-    function touchStartEvent(from) {
-        let button;
-        let element;
-        if ('email' === from) {
-            button = document.getElementById('copy-email');
-            element = document.querySelector('[href="mailto:abhilashkokkonda@gmail.com"]');
-        } else {
-            button = document.getElementById('copy-number');
-            element = document.querySelector('[href="tel:+91 9494874335"]');
-        }
-        let copyText = element;
-        let range = document.createRange();
-        let selection = window.getSelection();
-        range.selectNodeContents(copyText); 
-        selection.removeAllRanges();
-        selection.addRange(range);
-        document.execCommand('copy');
-
-        button.style['backgroundColor'] = 'yellow';
+        button.style['backgroundColor'] = '#e7f6ec';
         button.style['fontSize'] = '2em';
         button.innerText = 'Copied!';
-    }
-
-    function touchEndEvent(from) {
-        let element;
-        if ('email' === from) {
-            element = document.getElementById('copy-email');
-        } else {
-            element = document.getElementById('copy-number');
-        }
-        element.style['backgroundColor'] = '#fff';
-        element.style['fontSize'] = '0.875em';
-        element.innerText = 'Copy';
     }
 </script>
