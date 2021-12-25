@@ -90,7 +90,7 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
         } else {
             element = document.getElementById('copy-mobile');
         }
-        element.textContent = 'Copy';
+        element.innerText = 'Copy';
     }
 
     function setToCopied(from) {
@@ -110,6 +110,6 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
         selection.removeAllRanges();
         selection.addRange(range);
         document.execCommand('copy');
-        button.textContent = 'Copied!';
+        button.innerText = 'Copied!';
     }
 </script>
