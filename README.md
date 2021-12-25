@@ -1,8 +1,8 @@
-#_Portfolio Project_
+# Portfolio Project
 
-####_This is a site made by Markdown, HTML and JavaScript
+#### _This is a site made by Markdown, HTML and JavaScript_
 
-####_Kokkonda Abhilasha Chary_
+#### Kokkonda Abhilasha Chary
 
 ## Description
 
@@ -12,11 +12,11 @@ _This site is a home page for my portfolio. It will show previous work history, 
 
 * _Open terminal or a similar app on your computer_
 * _change directory to Desktop_
-* _copy https://github.com/kokkondaabhilashachary/kokkondaabhilashachary.github.io_
+* _copy https://github.com/kokkondaabhilashachary/kokkondaabhilashachary.github.io.git_
 * _use git clone and paste that link after it to clone the repository_
 * _open the folder it provides_
-* _open the HTML folder inside_\
-* _https://kokkondaabhilashachary.github.io/_\
+* _open the HTML folder inside_
+* _Open the web URL https://kokkondaabhilashachary.github.io/_
 * As it is custom hosting, you will be automatically navigated to [https://kokkondaabhilash.me/](https://kokkondaabhilash.me/)
 
 ## Contact Details
