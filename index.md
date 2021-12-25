@@ -114,8 +114,8 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
         selection.addRange(range);
         document.execCommand('copy');
 
-        button.style['backgroundColor'] = '#e7f6ec';
-        button.style['fontSize'] = '2em';
+        button.style['backgroundColor'] = 'yellow';
+        button.style['fontSize'] = '1.5em';
         button.innerText = 'Copied!';
     }
 </script>
