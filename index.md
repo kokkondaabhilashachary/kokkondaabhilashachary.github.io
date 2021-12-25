@@ -148,7 +148,7 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
             element = document.getElementById('copy-number');
         }
         element.style['backgroundColor'] = '#fff';
-         button.style['fontSize'] = '0.875em';
+        element.style['fontSize'] = '0.875em';
         element.innerText = 'Copy';
     }
 </script>
