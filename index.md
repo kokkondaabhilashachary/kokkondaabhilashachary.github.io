@@ -51,7 +51,7 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 `Netflix Eureka` `Spring Cloud Config Server` `Netflix Zuul` `Netflix Hystrix` `Netflix Ribbon`<br/>
 **[PluralSight](https://app.pluralsight.com/library/courses/spring-cloud-fundamentals/table-of-contents) | [See Credential](https://i.stack.imgur.com/YvOQp.jpg)**
 #### Programming in Python
-**[IIT Madras](https://onlinedegree.iitm.ac.in/course_pages/BSCCS1002.html)**
+**[IIT Madras](https://onlinedegree.iitm.ac.in/course_pages/BSCCS1002.html)*
 
 ## 📱 Get In Touch 📧
 
