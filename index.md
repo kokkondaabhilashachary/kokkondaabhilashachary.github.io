@@ -39,8 +39,8 @@ I'm cool and calm person, like to hangout with friends. I like people with good 
 ## 📚 Learnings & Certifications 📜
 
 #### Certified Full-Stack (MEANJS) Engineer
-**[StackRoute](https://stackroutelearning.com/) An NIIT Initiative.**
 `MongoDB` `Mongoose` `ExpressJS` `Angular 8+` `NodeJS` `ECMAScript` `JavaScript` `TypeScript` `ReST APIs` `Swagger`<br/>
+**[StackRoute](https://stackroutelearning.com/) An NIIT Initiative.**
 #### Cascading Style Sheets Version 3
 `Grid` `FlexBox` `Sass`<br/>
 **[Udemy](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) | [See Credential](https://www.udemy.com/certificate/UC-a3dadf3e-5ce1-4e90-9032-5933d94e1d0b/)**
